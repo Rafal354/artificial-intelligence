@@ -1,2 +1,5 @@
 #IDE metadata
 **.idea/**
+
+#checkpoints
+**.ipynb_checkpoints/**
